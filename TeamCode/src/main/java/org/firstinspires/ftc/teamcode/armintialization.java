@@ -1,4 +1,4 @@
 package org.firstinspires.ftc.teamcode;
 
-public class arminitilazation {
+public class armintialization {
 }
